@@ -1,0 +1,65 @@
+{
+  "name": "#Adminstracion de Condominios",
+  "short_name": "#SAC",
+  "description": "Bienvenid@s al Sistema de Administración de COndominios)",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+ /* "start_url": "./?utm_source=web_app_manifest",*/
+  "start_url": "./?homescreen",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "https://sac-jlacruz.c9users.io/application/recursos/imagenes/icon_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sac-jlacruz.c9users.io/application/recursos/imagenes/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sac-jlacruz.c9users.io/application/recursos/imagenes/icon_384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sac-jlacruz.c9users.io/application/recursos/imagenes/icon_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sac-jlacruz.c9users.io/application/recursos/imagenes/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sac-jlacruz.c9users.io/application/recursos/imagenes/icon_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icon_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sac-jlacruz.c9users.io/application/recursos/imagenes/icon_64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sac-jlacruz.c9users.io/application/recursos/imagenes/icon_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sac-jlacruz.c9users.io/application/recursos/imagenes/favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
